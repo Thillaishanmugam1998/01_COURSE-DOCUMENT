@@ -39,6 +39,13 @@ Learn HTML:
 2. https://www.w3schools.com/html/
 3. https://web.dev/learn/html/welcome
 
+Learn C#:
+---------
+1. https://dotnettutorials.net/
+2. https://www.aspsnippets.com/
+3. https://tutorial.techaltum.com/
+4. https://www.completecsharptutorial.com/
+
 Learn Css: 
 ---------
 1. https://www.tutorialspoint.com/css/index.htm
