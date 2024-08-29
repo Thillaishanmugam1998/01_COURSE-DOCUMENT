@@ -1,0 +1,5 @@
+# Console App Flow:
+-------------------
+
+This is console app project 
+Before that run the API project and Test the Console Project.

@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\03_WEB_Api\\WEBApi.csproj": {}
+  },
+  "projects": {
+    "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj",
+        "projectName": "BAL",
+        "projectPath": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\01_Business_Logic_Layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj": {
+                "projectPath": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\02_Data_Access_Layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\03_WEB_Api\\WEBApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\03_WEB_Api\\WEBApi.csproj",
+        "projectName": "WEBApi",
+        "projectPath": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\03_WEB_Api\\WEBApi.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\03_WEB_Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj": {
+                "projectPath": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_PARAM\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+# To create a WEBAPI:
+----------------------
+1.Open visual studio 2019 or 2022 
+
+2.Create a New Project
+
+3.Select the template (ASP.NET Core Web API - C#)
+
+4.Given Your Project Name and Location Where You want to store your project.
+
+5.Chosse Your Framework version.
+
+6.If you want to Authentication to your API then you can enable else choose default None.
+
+7.Also You check or uncheck Configure for HTTPS  Checkbox depending on your needs.
+
+8.Now Click Create.
+
+9.In Solution Explorer it have a WEBAPI Folder Structure.
+	|-WebApplication
+		|-Connected Services
+		|-Dependencies
+		|-Properties
+		|-Controllers
+		|-appsetting.json
+		|-Program.cs
+		|-Startup.cs
+		|-WeatherForecast.cs
+(Here- WeatherForecast is default API)
+
+10.Now you will delete the WeatherForecast.cs and WeatherForecastController.cs(Inside the controller Folder)
+
+11.Now click the controller folder and add the controller chose API template and API controller-EMPTY and Create
+
+12.Now add the Controller Method and Logic here.
+
+13.Then, Rebuild Your Project and Run Your api.
