@@ -1,0 +1,84 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h2>Employee Details</h2>
+        <div class="form-group">
+            <label for="employeeId">Employee ID:</label>
+            <input type="text" id="employeeId" class="form-control" placeholder="Enter Employee ID">
+        </div>
+        <button id="getEmployeeBtn" class="btn btn-primary">Get Employee</button>
+
+        <h3 id="employeeTableTitle" style="display: none;">Employee Information</h3>
+        <table class="table table-bordered" id="employeeTable" style="display:none;">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Mobile</th>
+                    <th>Email</th>
+                    <th>City</th>
+                    <th>Created On</th>
+                    <th>Is Deleted</th>
+                </tr>
+            </thead>
+            <tbody id="employeeTableBody">
+                <!-- Table rows will be dynamically populated here -->
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $('#getEmployeeBtn').click(function () {
+                var employeeId = $('#employeeId').val();
+                if (employeeId) {
+                    $.ajax({
+                        url: '/Home/GetEmployeeById',
+                        type: 'GET',
+                        data: { id: employeeId },
+                        success: function (data) {
+                            if (data) {
+                                $('#employeeTableTitle').show();
+                                $('#employeeTable').show();
+                                // Parse JSON string into a JavaScript object
+                                var parsedData = JSON.parse(data);
+                                var employeeRow = `
+                                        <tr>
+                                            <td>${parsedData[0].id}</td>
+                                            <td>${parsedData[0].name}</td>
+                                            <td>${parsedData[0].email}</td>
+                                            <td>${parsedData[0].mobile}</td>
+                                            <td>${parsedData[0].city}</td>
+                                            <td>${new Date(parsedData[0].createdon).toLocaleString()}</td>
+                                            <td>${parsedData[0].isdeleted}</td>
+                                        </tr>`;
+                                $('#employeeTableBody').html(employeeRow);
+                            } else {
+                                alert('Employee not found.');
+                                $('#employeeTableTitle').hide();
+                                $('#employeeTable').hide();
+                            }
+                        },
+                        error: function (xhr, status, error) {
+                            alert('Error: ' + error);
+                        }
+                    });
+                } else {
+                    alert('Please enter an Employee ID.');
+                }
+            });
+        });
+    </script>
+</body>
+</html>

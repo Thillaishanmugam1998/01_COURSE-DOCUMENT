@@ -1,0 +1,32 @@
+# Project Structure:
+--------------------
+BAl    - Class Library
+DAL    - Class Library
+WEBAPI - ASP.NET Core WEB API
+
+
+
+
+# This is My URL LINK:
+--------------------
+http://localhost:15738/Employee/GetAllEmployees
+
+Here, 
+Endpoint   = Localhost
+Port	   = 15738
+Controller = Employee
+Method     = GetAllEmployees
+
+
+# Working Flow:
+---------------
+1. Employee Controller Have a GetAllEmployees Method, 
+   When i call this Method Controll Goes From to BAL.GetAllEmployees()
+  
+2. Now BAL.GetAllEmployees() to construct the Query to get 
+   All the Employees data (Business logic).
+   Then, Controll goes from DAL
+
+3. DAl Execute the Query to DataBase and Return the Result to BAL.
+   BAL Return to Controller.
+

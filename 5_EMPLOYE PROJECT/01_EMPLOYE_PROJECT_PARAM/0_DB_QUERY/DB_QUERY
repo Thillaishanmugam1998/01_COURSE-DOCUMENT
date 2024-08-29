@@ -1,0 +1,37 @@
+DROP TABLE UserInformation
+
+SELECT * FROM UserInformation
+SELECT * FROM EmployeeDetails
+
+-- Create UserInformation table
+CREATE TABLE UserInformation (
+    id SERIAL PRIMARY KEY,
+    username VARCHAR(50) NOT NULL,
+    password VARCHAR(50) NOT NULL,
+    privileges VARCHAR(50) NOT NULL,
+    createdon TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    isdeleted BOOLEAN DEFAULT FALSE
+);
+
+-- Create EmployeeDetails table
+CREATE TABLE EmployeeDetails (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    mobile VARCHAR(20) NOT NULL,
+    city VARCHAR(50) NOT NULL,
+    createdon TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    isdeleted BOOLEAN DEFAULT FALSE
+); 
+
+-- Insert sample values into UserInformation table
+INSERT INTO UserInformation (username, password, privileges, createdon, isdeleted) VALUES
+('admin', 'admin@123', 'admin', NOW(), FALSE),
+('thillai', 'thilla@i123', 'user', NOW(), FALSE),
+('shanmugam', 'shanmugam@123', 'moderator', NOW(), FALSE);
+
+-- Insert sample values into EmployeeDetails table
+INSERT INTO EmployeeDetails (name, email, mobile, city, createdon, isdeleted) VALUES
+('Alice Johnson', 'alice.johnson@example.com', '1234567890', 'New York', NOW(), FALSE),
+('Bob Smith', 'bob.smith@example.com', '0987654321', 'Los Angeles', NOW(), FALSE),
+('Charlie Brown', 'charlie.brown@example.com', '1122334455', 'Chicago', NOW(), FALSE);
