@@ -1,0 +1,11 @@
+git checkout -b new-branch-name
+git add .
+git commit -m "Initial commit on new branch"
+git push origin new-branch-name
+git branch -a
+
+
+
+git branch -- list out all the branch
+
+git checkout "branchname"   --- change the branch
