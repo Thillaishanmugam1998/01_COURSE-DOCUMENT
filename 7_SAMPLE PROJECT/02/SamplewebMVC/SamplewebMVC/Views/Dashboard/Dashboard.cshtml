@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "Dashboard Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/dashboard.css">
+</head>
+
+<body>
+
+    <!-- Header Section -->
+    <header class="header">
+        <h1 class="title">CRUD Operations</h1>
+        <nav class="nav-buttons">
+            <button class="btn" onclick="showInsertForm()">Insert</button>
+            <button class="btn" onclick="showUpdateForm()">Update</button>
+            <button class="btn" onclick="showDeleteForm()">Delete</button>
+            <button class="btn" onclick="showAllDetails()">Get All Details</button>
+        </nav>
+    </header>
+
+    <!-- Main Content Section -->
+    <div class="content">
+        <!-- Insert Form -->
+        <div id="insert-form" class="form-section" style="display: none;">
+            <h2>Insert Details</h2>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name"><br><br>
+            <label for="mobile">Mobile Number:</label>
+            <input type="text" id="mobile" name="mobile"><br><br>
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="email"><br><br>
+            <label for="address">Address:</label>
+            <input type="text" id="address" name="address"><br><br>
+            <button class="btn" onclick="submitInsertForm()">Submit</button>
+        </div>
+
+        <!-- Update Form -->
+        <div id="update-form" class="form-section" style="display: none;">
+            <h2>Update Details</h2>
+            <label for="id">ID:</label>
+            <input type="text" id="update-id" name="id"><br><br>
+            <!-- Additional fields similar to Insert Form -->
+            <label for="name">Name:</label>
+            <input type="text" id="update-name" name="name"><br><br>
+            <label for="mobile">Mobile Number:</label>
+            <input type="text" id="update-mobile" name="mobile"><br><br>
+            <button class="btn" onclick="submitUpdateForm()">Submit</button>
+        </div>
+
+        <!-- Delete Form -->
+        <div id="delete-form" class="form-section" style="display: none;">
+            <h2>Delete Details</h2>
+            <label for="id">ID:</label>
+            <input type="text" id="delete-id" name="id"><br><br>
+            <button class="btn" onclick="submitDeleteForm()">Submit</button>
+        </div>
+
+        <!-- Get All Details Table -->
+        <div id="details-table" class="form-section" style="display: none;">
+            <h2>All Details</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Mobile Number</th>
+                        <th>Email</th>
+                        <th>Address</th>
+                    </tr>
+                </thead>
+                <tbody id="details-body">
+                    <!-- Dynamic content will be inserted here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Link to external JavaScript file -->
+    <script src="~/js/dashboard.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+</body>
+</html>

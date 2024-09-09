@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\TEST\\SamplewebMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1EECD-2C20-405B-B68B-59D52B96831D}|SamplewebMVC\\SamplewebMVC.csproj|c:\\users\\administrator\\desktop\\test\\samplewebmvc\\samplewebmvc\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{69F1EECD-2C20-405B-B68B-59D52B96831D}|SamplewebMVC\\SamplewebMVC.csproj|solutionrelative:samplewebmvc\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1EECD-2C20-405B-B68B-59D52B96831D}|SamplewebMVC\\SamplewebMVC.csproj|c:\\users\\administrator\\desktop\\test\\samplewebmvc\\samplewebmvc\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1EECD-2C20-405B-B68B-59D52B96831D}|SamplewebMVC\\SamplewebMVC.csproj|solutionrelative:samplewebmvc\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1EECD-2C20-405B-B68B-59D52B96831D}|SamplewebMVC\\SamplewebMVC.csproj|c:\\users\\administrator\\desktop\\test\\samplewebmvc\\samplewebmvc\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69F1EECD-2C20-405B-B68B-59D52B96831D}|SamplewebMVC\\SamplewebMVC.csproj|solutionrelative:samplewebmvc\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TEST\\SamplewebMVC\\SamplewebMVC\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "SamplewebMVC\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TEST\\SamplewebMVC\\SamplewebMVC\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "SamplewebMVC\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:11:36.801Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TEST\\SamplewebMVC\\SamplewebMVC\\wwwroot\\js\\dashboard.js",
+              "RelativeDocumentMoniker": "SamplewebMVC\\wwwroot\\js\\dashboard.js",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TEST\\SamplewebMVC\\SamplewebMVC\\wwwroot\\js\\dashboard.js",
+              "RelativeToolTip": "SamplewebMVC\\wwwroot\\js\\dashboard.js",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwFUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-06T03:18:19.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TEST\\SamplewebMVC\\SamplewebMVC\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "SamplewebMVC\\Views\\Dashboard\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TEST\\SamplewebMVC\\SamplewebMVC\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeToolTip": "SamplewebMVC\\Views\\Dashboard\\Dashboard.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAxwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T03:17:42.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

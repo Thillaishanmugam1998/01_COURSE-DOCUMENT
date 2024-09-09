@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pcbImL2gG2E=",
+  "success": true,
+  "projectFilePath": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\SamplewebMVC\\SamplewebMVC\\SamplewebMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

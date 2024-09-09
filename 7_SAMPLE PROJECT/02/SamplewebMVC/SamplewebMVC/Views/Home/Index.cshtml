@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Login Page";
+}
+
+<div class="login-container">
+    <h2>Login</h2>
+
+    <div class="form-group">
+        <label for="username">Username:</label>
+        <input type="text" id="username" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label for="password">Password:</label>
+        <input type="password" id="password" class="form-control" required />
+    </div>
+
+    <button type="button" id="loginButton" class="btn-primary">Login</button>
+
+    <div class="forgot-password">
+        <a href="/Account/ForgotPassword">Forgot password?</a>
+    </div>
+
+    <div id="loginMessage" class="login-message"></div> <!-- Display login errors -->
+</div>
+
+<!-- Link to external CSS and JavaScript files -->
+<link rel="stylesheet" type="text/css" href="~/css/login.css" />
+<script src="~/js/login.js"></script>

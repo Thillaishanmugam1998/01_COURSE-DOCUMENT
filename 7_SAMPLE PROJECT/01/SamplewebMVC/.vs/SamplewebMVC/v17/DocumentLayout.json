@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\SamplewebMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1EECD-2C20-405B-B68B-59D52B96831D}|SamplewebMVC\\SamplewebMVC.csproj|d:\\git_repo\\01_course-document\\5_employe project\\samplewebmvc\\samplewebmvc\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69F1EECD-2C20-405B-B68B-59D52B96831D}|SamplewebMVC\\SamplewebMVC.csproj|solutionrelative:samplewebmvc\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1EECD-2C20-405B-B68B-59D52B96831D}|SamplewebMVC\\SamplewebMVC.csproj|d:\\git_repo\\01_course-document\\5_employe project\\samplewebmvc\\samplewebmvc\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{69F1EECD-2C20-405B-B68B-59D52B96831D}|SamplewebMVC\\SamplewebMVC.csproj|solutionrelative:samplewebmvc\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\SamplewebMVC\\SamplewebMVC\\wwwroot\\js\\dashboard.js",
+              "RelativeDocumentMoniker": "SamplewebMVC\\wwwroot\\js\\dashboard.js",
+              "ToolTip": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\SamplewebMVC\\SamplewebMVC\\wwwroot\\js\\dashboard.js",
+              "RelativeToolTip": "SamplewebMVC\\wwwroot\\js\\dashboard.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T07:20:12.378Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\SamplewebMVC\\SamplewebMVC\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "SamplewebMVC\\Views\\Dashboard\\Dashboard.cshtml",
+              "ToolTip": "D:\\GIT_REPO\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\SamplewebMVC\\SamplewebMVC\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeToolTip": "SamplewebMVC\\Views\\Dashboard\\Dashboard.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T07:19:40.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
