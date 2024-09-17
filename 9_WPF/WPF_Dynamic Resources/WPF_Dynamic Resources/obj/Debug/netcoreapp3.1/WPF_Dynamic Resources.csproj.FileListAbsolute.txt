@@ -1,0 +1,20 @@
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\bin\Debug\netcoreapp3.1\WPF_Dynamic Resources.exe
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\bin\Debug\netcoreapp3.1\WPF_Dynamic Resources.deps.json
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\bin\Debug\netcoreapp3.1\WPF_Dynamic Resources.runtimeconfig.json
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\bin\Debug\netcoreapp3.1\WPF_Dynamic Resources.runtimeconfig.dev.json
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\bin\Debug\netcoreapp3.1\WPF_Dynamic Resources.dll
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\bin\Debug\netcoreapp3.1\WPF_Dynamic Resources.pdb
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\obj\Debug\netcoreapp3.1\App.g.cs
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\obj\Debug\netcoreapp3.1\WPF_Dynamic Resources_MarkupCompile.cache
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\obj\Debug\netcoreapp3.1\WPF_Dynamic Resources_MarkupCompile.lref
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\obj\Debug\netcoreapp3.1\App.baml
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\obj\Debug\netcoreapp3.1\WPF_Dynamic Resources.g.resources
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\obj\Debug\netcoreapp3.1\WPF_Dynamic Resources.GeneratedMSBuildEditorConfig.editorconfig
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\obj\Debug\netcoreapp3.1\WPF_Dynamic Resources.AssemblyInfoInputs.cache
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\obj\Debug\netcoreapp3.1\WPF_Dynamic Resources.AssemblyInfo.cs
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\obj\Debug\netcoreapp3.1\WPF_Dynamic Resources.csproj.CoreCompileInputs.cache
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\obj\Debug\netcoreapp3.1\WPF_Dynamic Resources.dll
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\obj\Debug\netcoreapp3.1\WPF_Dynamic Resources.pdb
+F:\05_SAMPLES\WPF\WPF_Dynamic Resources\WPF_Dynamic Resources\obj\Debug\netcoreapp3.1\WPF_Dynamic Resources.genruntimeconfig.cache

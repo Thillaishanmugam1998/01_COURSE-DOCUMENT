@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\bin\Debug\netcoreapp3.1\WPF-DATA BINDINGS.exe
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\bin\Debug\netcoreapp3.1\WPF-DATA BINDINGS.deps.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\bin\Debug\netcoreapp3.1\WPF-DATA BINDINGS.runtimeconfig.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\bin\Debug\netcoreapp3.1\WPF-DATA BINDINGS.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\bin\Debug\netcoreapp3.1\WPF-DATA BINDINGS.dll
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\bin\Debug\netcoreapp3.1\WPF-DATA BINDINGS.pdb
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\WPF-DATA BINDINGS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\OneWay.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\WPF-DATA BINDINGS_MarkupCompile.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\WPF-DATA BINDINGS_MarkupCompile.lref
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\OneWay.baml
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\WPF-DATA BINDINGS.g.resources
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\WPF-DATA BINDINGS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\WPF-DATA BINDINGS.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\WPF-DATA BINDINGS.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\WPF-DATA BINDINGS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\WPF-DATA BINDINGS.dll
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\WPF-DATA BINDINGS.pdb
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\WPF-DATA BINDINGS.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\TwoWay.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF-DATA BINDINGS\obj\Debug\netcoreapp3.1\TwoWay.baml

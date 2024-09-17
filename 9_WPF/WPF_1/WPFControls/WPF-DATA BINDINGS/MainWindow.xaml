@@ -1,0 +1,35 @@
+﻿<Window x:Class="WPF_DATA_BINDINGS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_DATA_BINDINGS"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <!--StackPanel Layout-->
+    <StackPanel Margin="100">
+        <!--In one-way binding, data is bound from its source (that is the object that holds the data) to its target (that is the object that displays the data) -->
+        <!--Button-->
+        <Button Content="1. ONE WAY DATA BINDING" 
+                Background="LightBlue" 
+                Foreground="DarkBlue"
+                FontSize="10"
+                FontWeight="Bold"
+                Padding="0"
+                Margin="50"
+                BorderBrush="DarkBlue"
+                BorderThickness="2"
+                Width="200"
+                Height="30" Click="Button_Click"/>
+
+        <Button Content="2. TWO WAY DATA BINDING" 
+                Height="30" Width="200" 
+                Background="LightBlue"
+                Foreground="DarkBlue"
+                FontSize="10"
+                BorderBrush="Black"
+                FontWeight="Bold"
+                BorderThickness="2" Click="Button_Click_1"/>
+    </StackPanel>
+</Window>

@@ -1,0 +1,43 @@
+﻿<Window x:Class="WPF_DATABINDINGS.ResourceBindings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_DATABINDINGS"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="ResourceBindings" Height="450" Width="800">
+
+    <!-- Define resources -->
+    <Window.Resources>
+        <SolidColorBrush x:Key="TextBoxBackgroundBrush" Color="LightBlue"/>
+        <SolidColorBrush x:Key="ButtonBackgroundBrush" Color="LightGreen"/>
+        <sys:String x:Key="SharedText">This is resource bound text!</sys:String>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- TextBox without binding -->
+        <TextBox x:Name="textBoxWithoutBinding" Grid.Row="0" Grid.Column="0" Width="150" Margin="5"/>
+        <Button Grid.Row="1" Grid.Column="0" Content="Click Me (Without Binding)" Width="150" Margin="5"
+                Click="ButtonWithoutBinding_Click"/>
+
+        <!-- TextBox with resource binding -->
+        <TextBox Grid.Row="0" Grid.Column="1" Margin="120,5,69,5" 
+                 Text="{StaticResource SharedText}" 
+                 Background="{StaticResource TextBoxBackgroundBrush}"/>
+        <Button Grid.Row="1" Grid.Column="1" Content="Click Me (With Resource Binding)" Margin="120,5,69,5"
+                Background="{StaticResource ButtonBackgroundBrush}"
+                Click="ButtonWithResourceBinding_Click"/>
+    </Grid>
+</Window>

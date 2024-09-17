@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35026.282
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Value Conversion", "WPF_Value Conversion\WPF_Value Conversion.csproj", "{1C05A73D-FCAA-4811-9CBD-73571CDB9165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C05A73D-FCAA-4811-9CBD-73571CDB9165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C05A73D-FCAA-4811-9CBD-73571CDB9165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C05A73D-FCAA-4811-9CBD-73571CDB9165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C05A73D-FCAA-4811-9CBD-73571CDB9165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89EE62C6-8280-4A7B-A367-406E0EBF610E}
+	EndGlobalSection
+EndGlobal

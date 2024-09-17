@@ -1,0 +1,26 @@
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\bin\Debug\netcoreapp3.1\WPF DATABINDINGS.exe
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\bin\Debug\netcoreapp3.1\WPF DATABINDINGS.deps.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\bin\Debug\netcoreapp3.1\WPF DATABINDINGS.runtimeconfig.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\bin\Debug\netcoreapp3.1\WPF DATABINDINGS.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\bin\Debug\netcoreapp3.1\WPF DATABINDINGS.dll
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\bin\Debug\netcoreapp3.1\WPF DATABINDINGS.pdb
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\ElementBindings.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\WPF DATABINDINGS_MarkupCompile.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\WPF DATABINDINGS_MarkupCompile.lref
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\ElementBindings.baml
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\WPF DATABINDINGS.g.resources
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\WPF DATABINDINGS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\WPF DATABINDINGS.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\WPF DATABINDINGS.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\WPF DATABINDINGS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\WPF DATABINDINGS.dll
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\WPF DATABINDINGS.pdb
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\WPF DATABINDINGS.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\WPF DATABINDINGS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\DataBind.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\DataBind.baml
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\ResourceBindings.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF DATABINDINGS\obj\Debug\netcoreapp3.1\ResourceBindings.baml
