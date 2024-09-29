@@ -1,0 +1,33 @@
+git checkout -b new-branch-name
+git add .
+git commit -m "Initial commit on new branch"
+git push origin new-branch-name
+git branch -a
+
+git pull -- get latest on the repo in github to our local
+
+---------------------------------------------------------------------------------------------------------------
+# Listout the brnch list and change the branch:
+
+git branch -------------> list out all the branch
+
+git checkout "branchname"   ------------> change the branch
+
+---------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------
+# Merge the branch2 into main branch:
+
+1). Switch to branch2:
+
+git checkout branch2 -----------------> comment
+
+2). Merge main into branch2:
+
+git merge main  ----------------------> comment
+
+"""
+This will merge all the changes from main into branch2. 
+Since branch2 only has one folder, after the merge, it will include all the additional folders from main.
+"""
+---------------------------------------------------------------------------------------------------------------
