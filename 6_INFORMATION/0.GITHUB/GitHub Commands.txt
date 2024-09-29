@@ -4,7 +4,31 @@ git commit -m "Initial commit on new branch"
 git push origin new-branch-name
 git branch -a
 
-git pull -- get latest on the repo in github to our local
+---------------------------------------------------------------------------------------------------------------
+# Get clone the repo and make changes and push to repo:
+
+1)  git clone <RepoURL>    -------------> clone the repo into your local PC
+
+If you made any changes in the cloned repo in your local PC then check the status by following comment:
+
+2) git status   -----------> If you change something they list out
+
+Now, Move our local changes into stageing area using following comment:
+
+3)  git add . ---------> when use . to move all the data or files to stageing area insted of . you also used speific 
+file name or folder name you want.
+
+Now, Commit the changes to our local git repo ( move to stageing area to ready to github repo) by using following comment:
+
+4)  git commit -m <comment>   ----------> what you changed or what you added write the comment on it for memory purose
+like, why we was commit this or what i changed for our purpose.
+
+Now, upload this local chages to our github repo by using following comment:
+
+5)  git push origin <branchname>   ------> enter the your branch , always use main branch
+
+
+6) git pull -- get latest on the repo in github to our local
 
 ---------------------------------------------------------------------------------------------------------------
 # Listout the brnch list and change the branch:
