@@ -1,0 +1,21 @@
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\WPF_Static Resources.csproj.AssemblyReference.cache
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\WPF_Static Resources_MarkupCompile.cache
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\WPF_Static Resources_MarkupCompile.lref
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\bin\Debug\netcoreapp3.1\WPF_Static Resources.exe
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\bin\Debug\netcoreapp3.1\WPF_Static Resources.deps.json
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\bin\Debug\netcoreapp3.1\WPF_Static Resources.runtimeconfig.json
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\bin\Debug\netcoreapp3.1\WPF_Static Resources.runtimeconfig.dev.json
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\bin\Debug\netcoreapp3.1\WPF_Static Resources.dll
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\bin\Debug\netcoreapp3.1\WPF_Static Resources.pdb
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\App.g.cs
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\App.baml
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\WPF_Static Resources.g.resources
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\WPF_Static Resources.GeneratedMSBuildEditorConfig.editorconfig
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\WPF_Static Resources.AssemblyInfoInputs.cache
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\WPF_Static Resources.AssemblyInfo.cs
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\WPF_Static Resources.csproj.CoreCompileInputs.cache
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\WPF_Static Resources.dll
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\WPF_Static Resources.pdb
+F:\05_SAMPLES\WPF\WPF_Static Resources\WPF_Static Resources\obj\Debug\netcoreapp3.1\WPF_Static Resources.genruntimeconfig.cache

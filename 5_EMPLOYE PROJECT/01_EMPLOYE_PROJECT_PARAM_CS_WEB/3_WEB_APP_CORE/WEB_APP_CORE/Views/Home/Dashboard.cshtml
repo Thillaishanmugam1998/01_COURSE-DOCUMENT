@@ -1,0 +1,319 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.3.4/purify.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        .button-group {
+            margin-bottom: 20px;
+        }
+
+            .button-group button {
+                padding: 10px 15px;
+                background-color: #007bff;
+                color: #fff;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                margin-right: 10px;
+            }
+
+                .button-group button:hover {
+                    background-color: #0056b3;
+                }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+            .form-group label {
+                display: block;
+                margin-bottom: 5px;
+                color: #333;
+            }
+
+            .form-group input {
+                width: 100%;
+                padding: 10px;
+                border: 1px solid #ddd;
+                border-radius: 4px;
+            }
+
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+            .table th, .table td {
+                padding: 10px;
+                border: 1px solid #ddd;
+                text-align: left;
+            }
+
+            .table th {
+                background-color: #f4f4f4;
+            }
+
+            .table tr:nth-child(even) {
+                background-color: #f9f9f9;
+            }
+
+            .table tr:hover {
+                background-color: #f1f1f1;
+            }
+
+        .error {
+            color: red;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Dashboard</h2>
+
+        <div class="button-group">
+            <button id="insertBtn">Insert</button>
+            <button id="updateBtn">Update</button>
+            <button id="deleteBtn">Delete</button>
+            <button id="getAllBtn">Get All Records</button>
+        </div>
+
+        <!-- Insert Form -->
+        <div id="insertForm" class="form-group" style="display:none;">
+            <h3>Insert Record</h3>
+            <label for="insertName">Name:</label>
+            <input type="text" id="insertName" class="form-control" placeholder="Enter Name">
+
+            <label for="insertEmail">Email:</label>
+            <input type="email" id="insertEmail" class="form-control" placeholder="Enter Email">
+
+            <label for="insertMobile">Mobile:</label>
+            <input type="number" id="insertMobile" class="form-control" placeholder="Enter Mobile Number">
+
+            <label for="insertCity">Mobile:</label>
+            <input type="text" id="insertCity" class="form-control" placeholder="Enter City">
+
+            <button id="submitInsert" class="btn">Submit</button>
+            <div id="insertError" class="error" style="display:none;"></div>
+        </div>
+
+        <!-- Update Form -->
+        <div id="updateForm" class="form-group" style="display:none;">
+            <h3>Update Record</h3>
+            <label for="updateId">ID:</label>
+            <input type="text" id="updateId" class="form-control" placeholder="Enter ID">
+            <label for="updateName">Name:</label>
+            <input type="text" id="updateName" class="form-control" placeholder="Enter Name">
+           
+            <label for="updateEmail">Email:</label>
+            <input type="email" id="updateEmail" class="form-control" placeholder="Enter Email">
+            
+            <label for="updateMobile">Mobile:</label>
+            <input type="number" id="updateMobile" class="form-control" placeholder="Enter Mobile Number">
+            
+            <label for="updateCity">Mobile:</label>
+            <input type="text" id="updateCity" class="form-control" placeholder="Enter City">
+            
+            <button id="submitUpdate" class="btn">Submit</button>
+            <div id="updateError" class="error" style="display:none;"></div>
+        </div>
+
+        <!-- Delete Form -->
+        <div id="deleteForm" class="form-group" style="display:none;">
+            <h3>Delete Record</h3>
+            <label for="deleteId">ID:</label>
+            <input type="text" id="deleteId" class="form-control" placeholder="Enter ID">
+            <button id="submitDelete" class="btn">Submit</button>
+            <div id="deleteError" class="error" style="display:none;"></div>
+        </div>
+
+        <!-- Records Table -->
+        <div id="recordsTableContainer" style="display:none;">
+            <h3>All Records</h3>
+            <table class="table" id="recordsTable">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Mobile</th>
+                        <th>City</th>
+                    </tr>
+                </thead>
+                <tbody id="recordsTableBody">
+                </tbody>
+            </table>
+        </div>
+
+        <div id="error" class="error" style="display: none;"></div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $('#insertBtn').click(function () {
+                $('#insertForm').show();
+                $('#updateForm, #deleteForm, #recordsTableContainer').hide();
+            });
+
+            $('#updateBtn').click(function () {
+                $('#updateForm').show();
+                $('#insertForm, #deleteForm, #recordsTableContainer').hide();
+            });
+
+            $('#deleteBtn').click(function () {
+                $('#deleteForm').show();
+                $('#insertForm, #updateForm, #recordsTableContainer').hide();
+            });
+
+            $('#getAllBtn').click(function () {
+                $('#recordsTableContainer').show();
+                $('#insertForm, #updateForm, #deleteForm').hide();
+
+                $.ajax({
+                    url: '/Home/GetAllEmployees',
+                    type: 'GET',
+                    success: function (data) {
+                        if (data) {
+                            $('#recordsTableBody').empty();
+                            // Sanitize and parse JSON string into a JavaScript object
+                            var parsedData = JSON.parse(DOMPurify.sanitize(data));
+                            var rows = '';
+                            $.each(parsedData, function (index, employee) {
+                                rows += `
+                                        <tr>
+                                            <td>${employee.id}</td>
+                                            <td>${employee.name}</td>
+                                            <td>${employee.email}</td>
+                                            <td>${employee.mobile}</td>
+                                            <td>${employee.city}</td>
+            
+                                        </tr>`;
+                            });
+                            $('#recordsTableBody').html(rows);
+                            $('#error').hide();
+                        } else {
+                            $('#recordsTableBody').html('');
+                            $('#error').text('No records found.').show();
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        $('#error').text('Error: ' + error).show();
+                    }
+                });
+            });
+
+            $('#submitInsert').click(function () {
+                var name = $('#insertName').val();
+                var email = $('#insertEmail').val();
+                var mobile = $('#insertMobile').val();
+                var city = $('#insertCity').val()
+                $.ajax({
+                    url: '/Home/InsertEmployee',
+                    type: 'GET',
+                    data: {
+                        name: name,
+                        email: email,
+                        mobile: mobile,
+                        city: city
+
+                    },
+                    success: function (response) {
+                        if (response.success) {
+                            alert('Record inserted successfully.');
+                            $('#insertForm').hide();
+                        } else {
+                            $('#insertError').text(response.error).show();
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        $('#insertError').text('Error: ' + error).show();
+                    }
+                });
+            });
+
+            $('#submitUpdate').click(function () {
+                var id = $('#updateId').val();
+                var name = $('#updateName').val();
+                var email = $('#updateEmail').val();
+                var mobile = $('#updateMobile').val();
+                var city = $('#updateCity').val()
+                $.ajax({
+                    url: '/Home/UpdateEmployee',
+                    type: 'GET',
+                    data: {
+                        id: id,
+                        name: name,
+                        email: email,
+                        mobile: mobile,
+                        city: city
+                    },
+                    success: function (response) {
+                        if (response.success) {
+                            alert('Record updated successfully.');
+                            $('#updateForm').hide();
+                        } else {
+                            $('#updateError').text(response.error).show();
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        $('#updateError').text('Error: ' + error).show();
+                    }
+                });
+            });
+
+            $('#submitDelete').click(function () {
+                var id = parseInt($('#deleteId').val());
+                $.ajax({
+                    url: '/Home/DeleteEmployee',
+                    type: 'GET',
+                    data: {
+                        id: id
+                    },
+                    success: function (response) {
+                        if (response.success) {
+                            alert('Record deleted successfully.');
+                            $('#deleteForm').hide();
+                        } else {
+                            $('#deleteError').text(response.error).show();
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        $('#deleteError').text('Error: ' + error).show();
+                    }
+                });
+            });
+        });
+    </script>
+    @Html.AntiForgeryToken()
+</body>
+</html>

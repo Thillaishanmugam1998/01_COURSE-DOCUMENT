@@ -1,0 +1,23 @@
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\bin\Debug\netcoreapp3.1\WPF STYLES.exe
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\bin\Debug\netcoreapp3.1\WPF STYLES.deps.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\bin\Debug\netcoreapp3.1\WPF STYLES.runtimeconfig.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\bin\Debug\netcoreapp3.1\WPF STYLES.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\bin\Debug\netcoreapp3.1\WPF STYLES.dll
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\bin\Debug\netcoreapp3.1\WPF STYLES.pdb
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\WPF STYLES.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\WPF STYLES_MarkupCompile.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\WPF STYLES_MarkupCompile.lref
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\WPF STYLES.g.resources
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\WPF STYLES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\WPF STYLES.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\WPF STYLES.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\WPF STYLES.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\WPF STYLES.dll
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\WPF STYLES.pdb
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\WPF STYLES.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\DataBindings.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF STYLES\obj\Debug\netcoreapp3.1\DataBindings.baml

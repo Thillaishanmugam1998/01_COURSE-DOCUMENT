@@ -1,0 +1,22 @@
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\bin\Debug\netcoreapp3.1\WPF_Value Conversion.exe
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\bin\Debug\netcoreapp3.1\WPF_Value Conversion.deps.json
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\bin\Debug\netcoreapp3.1\WPF_Value Conversion.runtimeconfig.json
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\bin\Debug\netcoreapp3.1\WPF_Value Conversion.runtimeconfig.dev.json
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\bin\Debug\netcoreapp3.1\WPF_Value Conversion.dll
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\bin\Debug\netcoreapp3.1\WPF_Value Conversion.pdb
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\WPF_Value Conversion.csproj.AssemblyReference.cache
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\App.g.cs
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\WPF_Value Conversion_MarkupCompile.cache
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\WPF_Value Conversion_MarkupCompile.lref
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\App.baml
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\WPF_Value Conversion.g.resources
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\WPF_Value Conversion.GeneratedMSBuildEditorConfig.editorconfig
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\WPF_Value Conversion.AssemblyInfoInputs.cache
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\WPF_Value Conversion.AssemblyInfo.cs
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\WPF_Value Conversion.csproj.CoreCompileInputs.cache
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\WPF_Value Conversion.dll
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\WPF_Value Conversion.pdb
+F:\05_SAMPLES\WPF\WPF_Value Conversion\WPF_Value Conversion\obj\Debug\netcoreapp3.1\WPF_Value Conversion.genruntimeconfig.cache

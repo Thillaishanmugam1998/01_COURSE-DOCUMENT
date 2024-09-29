@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\TEST\01_EMPLOYE_PROJECT_PARAM\1_WEB_API\01_Business_Logic_Layer\bin\Release\netcoreapp3.1\BAL.deps.json
+C:\Users\Administrator\Desktop\TEST\01_EMPLOYE_PROJECT_PARAM\1_WEB_API\01_Business_Logic_Layer\bin\Release\netcoreapp3.1\BAL.dll
+C:\Users\Administrator\Desktop\TEST\01_EMPLOYE_PROJECT_PARAM\1_WEB_API\01_Business_Logic_Layer\bin\Release\netcoreapp3.1\BAL.pdb
+C:\Users\Administrator\Desktop\TEST\01_EMPLOYE_PROJECT_PARAM\1_WEB_API\01_Business_Logic_Layer\bin\Release\netcoreapp3.1\DAL.dll
+C:\Users\Administrator\Desktop\TEST\01_EMPLOYE_PROJECT_PARAM\1_WEB_API\01_Business_Logic_Layer\bin\Release\netcoreapp3.1\DAL.pdb
+C:\Users\Administrator\Desktop\TEST\01_EMPLOYE_PROJECT_PARAM\1_WEB_API\01_Business_Logic_Layer\obj\Release\netcoreapp3.1\BAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TEST\01_EMPLOYE_PROJECT_PARAM\1_WEB_API\01_Business_Logic_Layer\obj\Release\netcoreapp3.1\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TEST\01_EMPLOYE_PROJECT_PARAM\1_WEB_API\01_Business_Logic_Layer\obj\Release\netcoreapp3.1\BAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TEST\01_EMPLOYE_PROJECT_PARAM\1_WEB_API\01_Business_Logic_Layer\obj\Release\netcoreapp3.1\BAL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TEST\01_EMPLOYE_PROJECT_PARAM\1_WEB_API\01_Business_Logic_Layer\obj\Release\netcoreapp3.1\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TEST\01_EMPLOYE_PROJECT_PARAM\1_WEB_API\01_Business_Logic_Layer\obj\Release\netcoreapp3.1\BAL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\TEST\01_EMPLOYE_PROJECT_PARAM\1_WEB_API\01_Business_Logic_Layer\obj\Release\netcoreapp3.1\BAL.dll
+C:\Users\Administrator\Desktop\TEST\01_EMPLOYE_PROJECT_PARAM\1_WEB_API\01_Business_Logic_Layer\obj\Release\netcoreapp3.1\BAL.pdb

@@ -6,7 +6,7 @@ namespace DAL
 {
     public class EmployeeDAL
     {
-        private string _connectionString = "Host=localhost;Username=postgres;Password=sar@123;Database=SampleDB";
+        private string _connectionString = "Host=localhost;Username=postgres;Password=1701;Database=SampleDB";
 
         #region 01. EXECUTE_SCALAR:-
         public int ExecuteScalar(string query)

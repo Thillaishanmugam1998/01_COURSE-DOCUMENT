@@ -1,0 +1,20 @@
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\bin\Debug\netcoreapp3.1\WPF TRIGGER.exe
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\bin\Debug\netcoreapp3.1\WPF TRIGGER.deps.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\bin\Debug\netcoreapp3.1\WPF TRIGGER.runtimeconfig.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\bin\Debug\netcoreapp3.1\WPF TRIGGER.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\bin\Debug\netcoreapp3.1\WPF TRIGGER.dll
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\bin\Debug\netcoreapp3.1\WPF TRIGGER.pdb
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\obj\Debug\netcoreapp3.1\WPF TRIGGER_MarkupCompile.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\obj\Debug\netcoreapp3.1\WPF TRIGGER_MarkupCompile.lref
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\obj\Debug\netcoreapp3.1\WPF TRIGGER.g.resources
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\obj\Debug\netcoreapp3.1\WPF TRIGGER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\obj\Debug\netcoreapp3.1\WPF TRIGGER.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\obj\Debug\netcoreapp3.1\WPF TRIGGER.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\obj\Debug\netcoreapp3.1\WPF TRIGGER.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\obj\Debug\netcoreapp3.1\WPF TRIGGER.dll
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\obj\Debug\netcoreapp3.1\WPF TRIGGER.pdb
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\obj\Debug\netcoreapp3.1\WPF TRIGGER.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF TRIGGER\obj\Debug\netcoreapp3.1\WPF TRIGGER.csproj.AssemblyReference.cache

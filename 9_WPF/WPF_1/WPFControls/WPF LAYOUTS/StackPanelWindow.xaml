@@ -1,0 +1,14 @@
+﻿<Window x:Class="WPF_LAYOUTS.StackPanelWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_LAYOUTS"
+        mc:Ignorable="d"
+        Title="StackPanelWindow" Height="450" Width="800">
+    <StackPanel>
+        <Button Content="Button 1" Height="50" Width="200"/>
+        <Button Content="Button 2" Height="50" Width="200"/>
+        <Button Content="Button 3" Height="50" Width="200"/>
+    </StackPanel>
+</Window>

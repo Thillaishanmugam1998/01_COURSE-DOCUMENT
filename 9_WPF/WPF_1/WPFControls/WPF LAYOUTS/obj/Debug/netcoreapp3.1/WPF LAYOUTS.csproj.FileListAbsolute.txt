@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\WPF LAYOUTS_MarkupCompile.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\WPF LAYOUTS_MarkupCompile.lref
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\GridViewWindow.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\bin\Debug\netcoreapp3.1\WPF LAYOUTS.exe
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\bin\Debug\netcoreapp3.1\WPF LAYOUTS.deps.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\bin\Debug\netcoreapp3.1\WPF LAYOUTS.runtimeconfig.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\bin\Debug\netcoreapp3.1\WPF LAYOUTS.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\bin\Debug\netcoreapp3.1\WPF LAYOUTS.dll
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\bin\Debug\netcoreapp3.1\WPF LAYOUTS.pdb
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\GridViewWindow.baml
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\WPF LAYOUTS.g.resources
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\WPF LAYOUTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\WPF LAYOUTS.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\WPF LAYOUTS.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\WPF LAYOUTS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\WPF LAYOUTS.dll
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\WPF LAYOUTS.pdb
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\WPF LAYOUTS.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\WPF LAYOUTS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\CanvasWindow.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\DockPanelWindow.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\StackPanelWindow.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\WrapPanelWindow.g.cs
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\CanvasWindow.baml
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\DockPanelWindow.baml
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\StackPanelWindow.baml
+C:\Users\Administrator\Desktop\WPF_1\WPFControls\WPF LAYOUTS\obj\Debug\netcoreapp3.1\WrapPanelWindow.baml

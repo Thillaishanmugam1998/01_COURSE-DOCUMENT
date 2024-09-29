@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\1_WEB_API\01_Business_Logic_Layer\BAL.csproj" />
+    <ProjectReference Include="..\..\1_WEB_API\02_Data_Access_Layer\DAL.csproj" />
+  </ItemGroup>
+
+</Project>

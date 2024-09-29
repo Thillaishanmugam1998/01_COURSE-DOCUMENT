@@ -1,0 +1,77 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <!--Window Control Style:-->
+    <Window.Resources>
+        <Style x:Key="Button_1" TargetType="Button">
+            <Setter Property="Background" Value="LightCoral" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontSize" Value="16" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="Margin" Value="10,0,10,0" />
+            <Setter Property="Height" Value="30" />
+            <Setter Property="Width" Value="100" />
+        </Style>
+    </Window.Resources>
+
+
+
+    <Grid>
+        <!--Grid Layout-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height= "Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="301*"/>
+            <ColumnDefinition Width="404*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+
+        <!--In Line Style -->
+        <Button Content="In Line Control Style" Grid.Column="1" VerticalAlignment="Center" Margin="10,0,75,0" Height="25" Grid.ColumnSpan="2"  >
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="LightBlue" />
+                    <Setter Property="Foreground" Value="White" />
+                    <Setter Property="FontSize" Value="14" />
+                    <Setter Property="FontWeight" Value="Bold" />
+                </Style>
+            </Button.Style>
+        </Button>
+
+
+        <Button Content="ICS" Grid.Column="0" VerticalAlignment="Center" Margin="10,0,10,0" Height="25" Width="75" FontWeight ="Bold"/>
+        <Button Content="WCS" Grid.Row ="1" Grid.Column="0" VerticalAlignment="Center" Margin="10,0,10,0" Height="25" Width="75" Style= "{StaticResource Button_1}" />
+        <Button Content="ACS" Grid.Row ="2" Grid.Column="0" VerticalAlignment="Center" Margin="10,0,10,0" Height="25" Width="75" Style= "{StaticResource Button_2}" />
+        <Button Content="Window Control Style" Grid.Row ="1" Grid.Column="1" VerticalAlignment="Center" Margin="10,0,75,0" Height="25" Width="Auto" Style= "{StaticResource Button_1}" Grid.ColumnSpan="2" />
+        <Button Content="Application Control Style" Grid.Row ="2" Grid.Column="1" VerticalAlignment="Center" Margin="10,0,75,0" Height="25" Width="Auto" Style= "{StaticResource Button_2}" Grid.ColumnSpan="2" />
+
+
+        <Button Content="CLICK ME" Height="24" Grid.Column="0" Grid.Row="3" VerticalAlignment="Center" FontWeight ="Bold" Margin="133,0,134,0" >
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <!-- Property Trigger: Changes background color when button is pressed -->
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter Property="Background" Value="Red"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+
+    </Grid>
+
+</Window>

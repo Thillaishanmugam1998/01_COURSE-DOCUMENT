@@ -1,0 +1,30 @@
+﻿<Window x:Class="WPF_Value_Conversion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Value_Conversion"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <StackPanel>
+        <!-- Checkbox to toggle the boolean value -->
+        <CheckBox x:Name="IsVisibleCheckBox" Content="Is Visible" IsChecked="True"/>
+
+        <!-- TextBlock visibility is bound to the CheckBox value -->
+        <TextBlock Text="Hello, World!" 
+                   Visibility="{Binding ElementName=IsVisibleCheckBox, Path=IsChecked, Converter={StaticResource BoolToVisibilityConverter}}"/>
+
+        
+        <!-- TextBox for inputting the score -->
+        <TextBox x:Name="ScoreTextBox" Width="100" Margin="10" Text="0"/>
+
+        <!-- Rectangle that changes color based on the score -->
+        <Rectangle Height="50" Width="200" Margin="10">
+            <Rectangle.Fill>
+                <Binding ElementName="ScoreTextBox" Path="Text" Converter="{StaticResource ScoreToColorConverter}" />
+            </Rectangle.Fill>
+        </Rectangle>
+        
+    </StackPanel>
+</Window>

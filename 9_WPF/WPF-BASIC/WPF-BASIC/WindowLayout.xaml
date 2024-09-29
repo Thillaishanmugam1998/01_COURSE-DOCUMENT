@@ -1,0 +1,52 @@
+﻿<Window x:Class="WPF_BASIC.WindowLayout"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_BASIC"
+        mc:Ignorable="d"
+        Title="WindowLayout" Height="450" Width="800">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Title using StackPanel (in Row 0, Column 0 spanning two columns) -->
+        <StackPanel Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center">
+            <TextBlock Text="Multiple Layouts Example" FontWeight="Bold" FontSize="16" Margin="10"/>
+        </StackPanel>
+
+        <!-- DockPanel Section (in Row 1, Column 0) -->
+        <DockPanel Grid.Row="1" Grid.Column="0" Background="LightGray" Margin="5">
+            <TextBlock Text="DockPanel (Dock to Top)" DockPanel.Dock="Top" FontSize="14" FontWeight="Bold" Margin="5"/>
+            <Button Content="Left Dock" DockPanel.Dock="Left" Width="80" Margin="5"/>
+            <Button Content="Right Dock" DockPanel.Dock="Right" Width="80" Margin="5"/>
+            <TextBlock Text="This content is in the remaining space of the DockPanel." Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        </DockPanel>
+
+        <!-- WrapPanel Section (in Row 1, Column 1) -->
+        <WrapPanel Grid.Row="1" Grid.Column="1" Background="LightCyan" Margin="5">
+            <TextBlock Text="WrapPanel:" FontWeight="Bold" FontSize="14" Margin="5"/>
+            <Button Content="Button 1" Width="100" Height="50" Margin="5"/>
+            <Button Content="Button 2" Width="100" Height="50" Margin="5"/>
+            <Button Content="Button 3" Width="100" Height="50" Margin="5"/>
+            <Button Content="Button 4" Width="100" Height="50" Margin="5"/>
+            <Button Content="Button 5" Width="100" Height="50" Margin="5"/>
+        </WrapPanel>
+
+        <!-- Canvas Section (in Row 2, Column 0 spanning two columns) -->
+        <Canvas Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Background="LightYellow" Height="150" Margin="5">
+            <TextBlock Text="Canvas Layout:" FontWeight="Bold" Canvas.Left="10" Canvas.Top="10" FontSize="14"/>
+            <Ellipse Width="50" Height="50" Fill="Blue" Canvas.Left="150" Canvas.Top="40"/>
+            <Rectangle Width="100" Height="50" Fill="Green" Canvas.Left="250" Canvas.Top="60"/>
+            <Button Content="Click Me" Canvas.Left="400" Canvas.Top="80" Width="100" Height="30"/>
+        </Canvas>
+    </Grid>
+</Window>
