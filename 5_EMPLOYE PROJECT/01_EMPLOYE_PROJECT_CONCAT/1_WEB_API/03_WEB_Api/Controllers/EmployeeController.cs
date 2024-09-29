@@ -52,8 +52,9 @@ namespace WEBApi.Controllers
 
         #region 06. GET EMPLOYEE BY ID:-
         [HttpGet("GetEmployeeById")]
-        public string GetEmployeeById(int id)
+        public string GetEmployeeById()
         {
+            int id = 1;
             string result = _employeeBAL.GetEmployeeById(id);
             return (result);
         }

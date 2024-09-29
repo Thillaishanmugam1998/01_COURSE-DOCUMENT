@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\03_WEB_Api\\WEBApi.csproj": {}
+    "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\03_WEB_Api\\WEBApi.csproj": {}
   },
   "projects": {
-    "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj": {
+    "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj",
+        "projectUniqueName": "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj",
         "projectName": "BAL",
-        "projectPath": "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\01_Business_Logic_Layer\\obj\\",
+        "projectPath": "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj",
+        "packagesPath": "C:\\Users\\TT_1714\\.nuget\\packages\\",
+        "outputPath": "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\01_Business_Logic_Layer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\TT_1714\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj": {
-                "projectPath": "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj"
+              "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj": {
+                "projectPath": "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj"
               }
             }
           }
@@ -68,25 +64,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj": {
+    "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj",
+        "projectUniqueName": "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\02_Data_Access_Layer\\obj\\",
+        "projectPath": "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\02_Data_Access_Layer\\DAL.csproj",
+        "packagesPath": "C:\\Users\\TT_1714\\.nuget\\packages\\",
+        "outputPath": "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\02_Data_Access_Layer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\TT_1714\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -136,25 +128,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\03_WEB_Api\\WEBApi.csproj": {
+    "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\03_WEB_Api\\WEBApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\03_WEB_Api\\WEBApi.csproj",
+        "projectUniqueName": "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\03_WEB_Api\\WEBApi.csproj",
         "projectName": "WEBApi",
-        "projectPath": "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\03_WEB_Api\\WEBApi.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\03_WEB_Api\\obj\\",
+        "projectPath": "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\03_WEB_Api\\WEBApi.csproj",
+        "packagesPath": "C:\\Users\\TT_1714\\.nuget\\packages\\",
+        "outputPath": "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\03_WEB_Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\TT_1714\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -168,8 +156,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj": {
-                "projectPath": "F:\\05_SAMPLES\\1.C-SHARP\\1_C sharp\\C#\\PROJECTS_SOURCE\\01_EMPLOYE_PROJECT_ISSUE\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj"
+              "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj": {
+                "projectPath": "D:\\04_Git Repository\\01_COURSE-DOCUMENT\\5_EMPLOYE PROJECT\\01_EMPLOYE_PROJECT_CONCAT\\1_WEB_API\\01_Business_Logic_Layer\\BAL.csproj"
               }
             }
           }
@@ -193,6 +181,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -201,7 +195,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

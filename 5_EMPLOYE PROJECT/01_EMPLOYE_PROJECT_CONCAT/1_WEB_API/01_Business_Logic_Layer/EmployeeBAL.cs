@@ -88,7 +88,7 @@ namespace BAL
         #region 06. GET_ALL_EMPLOYEE:-
         public string GetAllEmployees()
         {
-            string query = "SELECT * FROM EmployeeDetails WHERE isdeleted = false";
+            string query = "SELECT * FROM employeedetails WHERE isdeleted = false";
             DataTable result = _employeeDAL.ExecuteReader(query);
             return JsonConvert.SerializeObject(result);
         }

@@ -42,3 +42,13 @@ F:\06_Samples\1.C#\C#\PROJECTS_SOURCE\01_EMPLOYE_PROJECT_ISSUE\1_WEB_API\02_Data
 F:\06_Samples\1.C#\C#\PROJECTS_SOURCE\01_EMPLOYE_PROJECT_ISSUE\1_WEB_API\02_Data_Access_Layer\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
 F:\06_Samples\1.C#\C#\PROJECTS_SOURCE\01_EMPLOYE_PROJECT_ISSUE\1_WEB_API\02_Data_Access_Layer\obj\Debug\netcoreapp3.1\DAL.dll
 F:\06_Samples\1.C#\C#\PROJECTS_SOURCE\01_EMPLOYE_PROJECT_ISSUE\1_WEB_API\02_Data_Access_Layer\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\02_Data_Access_Layer\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\02_Data_Access_Layer\bin\Debug\netcoreapp3.1\DAL.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\02_Data_Access_Layer\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\02_Data_Access_Layer\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\02_Data_Access_Layer\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\02_Data_Access_Layer\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\02_Data_Access_Layer\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\02_Data_Access_Layer\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\02_Data_Access_Layer\obj\Debug\netcoreapp3.1\DAL.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\02_Data_Access_Layer\obj\Debug\netcoreapp3.1\DAL.pdb

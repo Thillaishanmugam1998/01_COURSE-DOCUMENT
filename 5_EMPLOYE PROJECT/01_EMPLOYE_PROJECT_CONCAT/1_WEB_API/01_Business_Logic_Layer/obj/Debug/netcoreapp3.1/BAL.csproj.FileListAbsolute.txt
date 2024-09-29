@@ -58,3 +58,16 @@ F:\06_Samples\1.C#\C#\PROJECTS_SOURCE\01_EMPLOYE_PROJECT_ISSUE\1_WEB_API\01_Busi
 F:\06_Samples\1.C#\C#\PROJECTS_SOURCE\01_EMPLOYE_PROJECT_ISSUE\1_WEB_API\01_Business_Logic_Layer\obj\Debug\netcoreapp3.1\BAL.csproj.CopyComplete
 F:\06_Samples\1.C#\C#\PROJECTS_SOURCE\01_EMPLOYE_PROJECT_ISSUE\1_WEB_API\01_Business_Logic_Layer\obj\Debug\netcoreapp3.1\BAL.dll
 F:\06_Samples\1.C#\C#\PROJECTS_SOURCE\01_EMPLOYE_PROJECT_ISSUE\1_WEB_API\01_Business_Logic_Layer\obj\Debug\netcoreapp3.1\BAL.pdb
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\01_Business_Logic_Layer\bin\Debug\netcoreapp3.1\BAL.deps.json
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\01_Business_Logic_Layer\bin\Debug\netcoreapp3.1\BAL.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\01_Business_Logic_Layer\bin\Debug\netcoreapp3.1\BAL.pdb
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\01_Business_Logic_Layer\bin\Debug\netcoreapp3.1\DAL.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\01_Business_Logic_Layer\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\01_Business_Logic_Layer\obj\Debug\netcoreapp3.1\BAL.csproj.AssemblyReference.cache
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\01_Business_Logic_Layer\obj\Debug\netcoreapp3.1\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\01_Business_Logic_Layer\obj\Debug\netcoreapp3.1\BAL.AssemblyInfoInputs.cache
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\01_Business_Logic_Layer\obj\Debug\netcoreapp3.1\BAL.AssemblyInfo.cs
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\01_Business_Logic_Layer\obj\Debug\netcoreapp3.1\BAL.csproj.CoreCompileInputs.cache
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\01_Business_Logic_Layer\obj\Debug\netcoreapp3.1\BAL.csproj.CopyComplete
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\01_Business_Logic_Layer\obj\Debug\netcoreapp3.1\BAL.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\01_Business_Logic_Layer\obj\Debug\netcoreapp3.1\BAL.pdb

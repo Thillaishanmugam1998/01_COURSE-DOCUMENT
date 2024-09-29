@@ -178,3 +178,40 @@ F:\06_Samples\1.C#\C#\PROJECTS_SOURCE\01_EMPLOYE_PROJECT_ISSUE\1_WEB_API\03_WEB_
 F:\06_Samples\1.C#\C#\PROJECTS_SOURCE\01_EMPLOYE_PROJECT_ISSUE\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\WEBApi.dll
 F:\06_Samples\1.C#\C#\PROJECTS_SOURCE\01_EMPLOYE_PROJECT_ISSUE\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\WEBApi.pdb
 F:\06_Samples\1.C#\C#\PROJECTS_SOURCE\01_EMPLOYE_PROJECT_ISSUE\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\WEBApi.genruntimeconfig.cache
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\WEBApi.exe
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\WEBApi.deps.json
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\WEBApi.runtimeconfig.json
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\WEBApi.runtimeconfig.dev.json
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\WEBApi.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\WEBApi.pdb
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\BAL.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\DAL.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\BAL.pdb
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\WEBApi.csproj.AssemblyReference.cache
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\WEBApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\WEBApi.AssemblyInfoInputs.cache
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\WEBApi.AssemblyInfo.cs
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\WEBApi.csproj.CoreCompileInputs.cache
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\WEBApi.MvcApplicationPartsAssemblyInfo.cache
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\staticwebassets\WEBApi.StaticWebAssets.Manifest.cache
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\staticwebassets\WEBApi.StaticWebAssets.xml
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\WEBApi.styles.css
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\WEBApi.RazorTargetAssemblyInfo.cache
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\WEBApi.csproj.CopyComplete
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\WEBApi.dll
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\WEBApi.pdb
+D:\04_Git Repository\01_COURSE-DOCUMENT\5_EMPLOYE PROJECT\01_EMPLOYE_PROJECT_CONCAT\1_WEB_API\03_WEB_Api\obj\Debug\netcoreapp3.1\WEBApi.genruntimeconfig.cache
